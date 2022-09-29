@@ -42,5 +42,5 @@ run npm install
 run npm run dev
 ```
 
-open localhost:3000 and go to the sign up, try to sign up and you are good to go
-when adding the roles and permission make sure you check all the boxes to start using all the endpoints, otherwise is not gonna work when loading the restaurants in the ui
+7. open localhost:3000 and go to the sign up, try to sign up and you are good to go
+   when adding the roles and permission make sure you check all the boxes to start using all the endpoints, otherwise is not gonna work when loading the restaurants in the ui
